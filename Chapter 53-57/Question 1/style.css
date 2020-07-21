@@ -17,11 +17,6 @@
     width: 600px;
     height: 300px;
 }
-.box{
-    display: flex;
-    justify-content: space-between;
-}
-
 #btnclose{
     position: absolute;
     top: 40px;
