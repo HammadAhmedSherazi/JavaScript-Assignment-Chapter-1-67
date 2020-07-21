@@ -1,0 +1,26 @@
+.images{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin: 20px;
+}
+h1{
+    color: rgb(46, 115, 219);
+}
+img{
+    width: auto;
+    height: 100px;
+    border: 1px solid rgb(46, 115, 219);
+}
+#mob1{
+    width: auto;
+    padding: 0px 30px;
+}
+P{
+    font-size: 10px;
+    width: auto;
+    color: rgb(46, 115, 219);
+}
+a{
+    padding: 15px;
+}

@@ -1,0 +1,10 @@
+var nod = document.getElementById('form-content');
+console.log("Node Type of ID='form-conten' "+ nod.nodeType);
+var targetNode = document.getElementById('lastName');
+console.log("Node Type of ID='lastName' " + targetNode.nodeType);
+console.log("Node Type of child node of Id='lastName' is " + targetNode.childNodes[0].nodeType);
+var mainContent = document.getElementById('main-content');
+console.log("First Child of ID='main-content' " + mainContent.firstChild);
+console.log("Last Child of ID='main-content' " + mainContent.lastChild);
+console.log("Next sibling of ID='lastName '" + targetNode.nextSibling);
+console.log("Previous sibling of ID='lastName '" + targetNode.previousSibling);

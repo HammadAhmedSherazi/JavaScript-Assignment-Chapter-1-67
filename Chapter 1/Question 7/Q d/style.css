@@ -1,0 +1,28 @@
+h1 {
+    color:rgba(79, 6, 121, 0.822);
+}
+table{
+    background-color: rgba(79, 6, 121, 0.822);
+    width: 100%;
+    color: white;
+
+}
+#in {
+    background-color:rgba(79, 6, 121, 0);
+}
+img{
+    width: 530px;
+}
+
+
+#tick{
+    width: 200px;
+}
+h2{
+    color: green;
+}
+.footer{
+    background-color: rgba(79, 6, 121, 0.822);
+    height: 35px;
+}
+

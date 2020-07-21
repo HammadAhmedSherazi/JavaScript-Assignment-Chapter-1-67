@@ -1,0 +1,10 @@
+var JS="PIZZA";
+alert(JS);
+JS="PIZZ";
+alert(JS);
+JS="PIZ";
+alert(JS);
+JS="PI";
+alert(JS);
+JS="P";
+alert(JS);

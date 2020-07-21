@@ -1,0 +1,11 @@
+document.write('Table of 5<br>');
+document.write('5x1='+ 5*1);
+document.write('<br>5x2='+ 5*2);
+document.write('<br>5x3='+ 5*3);
+document.write('<br>5x4='+ 5*4);
+document.write('<br>5x5='+ 5*5);
+document.write('<br>5x6='+ 5*6);
+document.write('<br>5x7='+ 5*7);
+document.write('<br>5x8='+ 5*8);
+document.write('<br>5x9='+ 5*9);
+document.write('<br>5x10='+ 5*10);

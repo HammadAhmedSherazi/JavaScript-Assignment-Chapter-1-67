@@ -1,0 +1,11 @@
+var priceOfItem1=650, priceOfItem2=100;
+var QuantityOfItem1=3, QuantityOfItem2=7;
+var shippingCharge=100;
+var TotalCost=(priceOfItem1*QuantityOfItem1)+(priceOfItem2*QuantityOfItem2)+shippingCharge;
+document.write('<h1>Shopping Card</h1>');
+document.write('<br><br><br> Price of Item 1 is ' + priceOfItem1);
+document.write('<br>Quantity of Item1 is '+ QuantityOfItem1);
+document.write('<br> Price of Item 1 is ' + priceOfItem2);
+document.write('<br>Quantity of Item1 is '+ QuantityOfItem2);
+document.write('<br>Shipping Charges is '+ shippingCharge);
+document.write('<br><br>Total cost of order is ' + TotalCost);
